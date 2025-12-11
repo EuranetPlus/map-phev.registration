@@ -1,13 +1,11 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How well are hybrid vehlcles doing in the EU?",
+  "subtitle": "In 2024, 38% of all newly registered passenger cars were hybrid. This indicates an incline in market share, up from 33.5% in 2023.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "For this analysis, all major passenger-car propulsion systems were considered. These include petrol and diesel engines, plug-in hybrid petrol-electric and diesel-electric systems, other hybrid configurations, battery-electric vehicles, and hydrogen or fuel-cell vehicles.A hybrid vehicle charges its battery through the engine and regenerative braking, while a plug-in hybrid can additionally be charged from an external power source to drive longer on electric power alone.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
   "tooltipExtraInfoLabel": "Click here"
 }
