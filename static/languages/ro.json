@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de bine se descurcă vehiculele hibride în UE?",
+  "subtitle": "În 2024, 38% din totalul autoturismelor nou înmatriculate erau hibride. Aceasta indică o creștere a cotei de piață, față de 33,5% în 2023.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Pentru această analiză, au fost luate în considerare toate sistemele majore de propulsie pentru autoturisme. Acestea includ motoare pe benzină și diesel, sisteme hibride plug-in benzină-electrice și diesel-electrice, alte configurații hibride, vehicule electrice cu baterie și vehicule cu hidrogen sau pile de combustie. Un vehicul hibrid își încarcă bateria prin intermediul motorului și al frânării regenerative, în timp ce un hibrid plug-in poate fi încărcat suplimentar de la o sursă de alimentare externă pentru a conduce mai mult timp doar cu energie electrică.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
