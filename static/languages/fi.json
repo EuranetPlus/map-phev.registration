@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka hyvin hybridiajoneuvot pärjäävät EU:ssa?",
+  "subtitle": "Vuonna 2024 kaikista uusista rekisteröidyistä henkilöautoista 38 % oli hybridejä. Tämä osoittaa markkinaosuuden kasvua vuoden 2023 33,5 %:sta.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Tässä analyysissä otettiin huomioon kaikki tärkeimmät henkilöautojen käyttövoimajärjestelmät. Näitä ovat bensiini- ja dieselmoottorit, ladattavat hybridibensiini-sähkö- ja diesel-sähköjärjestelmät, muut hybridikokoonpanot, täyssähköajoneuvot sekä vety- tai polttokennoajoneuvot. Hybridiajoneuvo lataa akkunsa moottorin ja regeneratiivisen jarrutuksen avulla, kun taas ladattavaa hybridia voidaan ladata lisäksi ulkoisesta virtalähteestä, jotta sillä voidaan ajaa pidempään pelkällä sähköllä.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
