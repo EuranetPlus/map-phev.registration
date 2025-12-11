@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Mennyire teljesítenek jól a hibrid járművek az EU-ban?",
+  "subtitle": "2024-ben az újonnan forgalomba helyezett személygépkocsik 38%-a hibrid volt. Ez a piaci részesedés növekedését jelzi, a 2023-as 33,5%-hoz képest.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az elemzéshez a személygépkocsik összes főbb hajtásrendszerét figyelembe vették. Ezek közé tartoznak a benzin- és dízelmotorok, a plug-in hibrid benzin-elektromos és dízel-elektromos rendszerek, az egyéb hibrid konfigurációk, az akkumulátoros-elektromos járművek, valamint a hidrogén- vagy üzemanyagcellás járművek. A hibrid jármű akkumulátorát a motoron és a regeneratív fékezésen keresztül tölti, míg a plug-in hibrid külső áramforrásról is tölthető, hogy hosszabb ideig tudjon vezetni tisztán elektromos árammal.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
