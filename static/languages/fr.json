@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quel est le succès des véhicules hybrides dans l'UE ?",
+  "subtitle": "En 2024, 38 % des nouvelles immatriculations de voitures particulières étaient des hybrides. Cela représente une progression de leur part de marché, contre 33,5 % en 2023.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Pour cette analyse, tous les principaux systèmes de propulsion des voitures particulières ont été pris en compte. Il s'agit notamment des moteurs essence et diesel, des systèmes hybrides rechargeables essence-électrique et diesel-électrique, des autres configurations hybrides, des véhicules électriques à batterie et des véhicules à hydrogène ou à pile à combustible. Un véhicule hybride recharge sa batterie grâce au moteur et au freinage régénératif, tandis qu'un véhicule hybride rechargeable peut également être rechargé à partir d'une source d'alimentation externe pour rouler plus longtemps en mode tout électrique.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
