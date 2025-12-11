@@ -1,13 +1,11 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jak se daří hybridním vozidlům v EU?",
+  "subtitle": "V roce 2024 tvořily hybridy 38 % všech nově registrovaných osobních automobilů. To naznačuje nárůst tržního podílu oproti 33,5 % v roce 2023.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Pro tuto analýzu byly zváženy všechny hlavní pohonné systémy osobních automobilů. Patří mezi ně benzínové a naftové motory, plug-in hybridní benzínovo-elektrické a naftovo-elektrické systémy, další hybridní konfigurace, vozidla s bateriovým elektrickým pohonem a vozidla na vodíkový nebo palivový článek. Hybridní vozidlo nabíjí baterii prostřednictvím motoru a rekuperačního brzdění, zatímco plug-in hybrid lze navíc nabíjet z externího zdroje energie, aby mohl jezdit déle pouze na elektřinu.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
