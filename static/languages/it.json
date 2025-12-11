@@ -1,13 +1,11 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Come stanno andando i veicoli ibridi nell'UE?",
+  "subtitle": "Nel 2024, il 38% di tutte le autovetture di nuova immatricolazione era ibrido. Ciò indica un aumento della quota di mercato, in aumento rispetto al 33,5% del 2023.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Per questa analisi, sono stati considerati tutti i principali sistemi di propulsione per autovetture. Tra questi, motori a benzina e diesel, sistemi ibridi plug-in benzina-elettrici e diesel-elettrici, altre configurazioni ibride, veicoli elettrici a batteria e veicoli a idrogeno o a celle a combustibile. Un veicolo ibrido carica la batteria attraverso il motore e la frenata rigenerativa, mentre un ibrido plug-in può essere ricaricato anche da una fonte di alimentazione esterna per guidare più a lungo con la sola alimentazione elettrica.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
   "tooltipExtraInfoLabel": "clicca qui"
 }
