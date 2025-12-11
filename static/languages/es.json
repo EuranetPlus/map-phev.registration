@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Qué tal se comportan los vehículos híbridos en la UE?",
+  "subtitle": "En 2024, el 38% de los turismos recién matriculados fueron híbridos. Esto indica un aumento de la cuota de mercado, frente al 33,5% de 2023.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Para este análisis, se consideraron todos los principales sistemas de propulsión de vehículos de pasajeros. Estos incluyen motores de gasolina y diésel, sistemas híbridos enchufables de gasolina-eléctricos y diésel-eléctricos, otras configuraciones híbridas, vehículos eléctricos de batería y vehículos de hidrógeno o pila de combustible. Un vehículo híbrido carga su batería mediante el motor y el frenado regenerativo, mientras que un híbrido enchufable puede cargarse adicionalmente desde una fuente de alimentación externa para una mayor autonomía solo con energía eléctrica.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
