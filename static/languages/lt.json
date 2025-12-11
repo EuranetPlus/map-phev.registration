@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kaip sekasi hibridinėms transporto priemonėms ES?",
+  "subtitle": "2024 m. 38 % visų naujai užregistruotų lengvųjų automobilių buvo hibridiniai. Tai rodo rinkos dalies padidėjimą, palyginti su 33,5 % 2023 m.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Šioje analizėje buvo atsižvelgta į visas pagrindines lengvųjų automobilių varymo sistemas. Tai benzininiai ir dyzeliniai varikliai, įkraunami hibridiniai benzininiai-elektriniai ir dyzeliniai-elektriniai varikliai, kitos hibridinės konfigūracijos, akumuliatorinės elektrinės transporto priemonės ir vandeniliu arba kuro elementais varomos transporto priemonės. Hibridinė transporto priemonė įkrauna akumuliatorių naudodama variklį ir regeneracinį stabdymą, o įkraunamas hibridas gali būti papildomai įkraunamas iš išorinio maitinimo šaltinio, kad būtų galima ilgiau važiuoti vien tik elektra.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2024 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
