@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie gut schlagen sich Hybridfahrzeuge in der EU?",
+  "subtitle": "Im Jahr 2024 waren 38 % aller neu zugelassenen Pkw Hybridfahrzeuge. Dies deutet auf einen Anstieg des Marktanteils hin, gegenüber 33,5 % im Jahr 2023.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Für diese Analyse wurden alle wichtigen Antriebssysteme für Pkw berücksichtigt. Dazu gehören Benzin- und Dieselmotoren, Plug-in-Hybridsysteme (Benzin-Elektro und Diesel-Elektro), andere Hybridkonfigurationen, batterieelektrische Fahrzeuge sowie Wasserstoff- oder Brennstoffzellenfahrzeuge. Ein Hybridfahrzeug lädt seine Batterie über den Motor und die Bremsenergierückgewinnung, während ein Plug-in-Hybrid zusätzlich über eine externe Stromquelle aufgeladen werden kann, um länger rein elektrisch zu fahren.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
