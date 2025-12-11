@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik labi klājas hibrīdautomobiļiem ES?",
+  "subtitle": "2024. gadā 38% no visām jaunreģistrētajām vieglajām automašīnām bija hibrīda dzinēji. Tas liecina par tirgus daļas pieaugumu, salīdzinot ar 33,5% 2023. gadā.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Šajā analīzē tika ņemtas vērā visas galvenās vieglo automašīnu piedziņas sistēmas. To skaitā ir benzīna un dīzeļdzinēji, benzīna-elektriskās un dīzeļa-elektriskās sistēmas ar uzlādējamu hibrīddzinēju, citas hibrīdkonfigurācijas, akumulatora-elektriskie transportlīdzekļi un ūdeņraža vai degvielas šūnu transportlīdzekļi. Hibrīda transportlīdzeklis uzlādē akumulatoru, izmantojot dzinēju un reģeneratīvo bremzēšanu, savukārt spraudņa hibrīdu var papildus uzlādēt no ārēja barošanas avota, lai ilgāk brauktu tikai ar elektroenerģiju.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
