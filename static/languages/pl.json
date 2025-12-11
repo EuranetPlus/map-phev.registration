@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jak radzą sobie pojazdy hybrydowe w UE?",
+  "subtitle": "W 2024 roku 38% nowo zarejestrowanych samochodów osobowych stanowiły samochody hybrydowe. Oznacza to wzrost udziału w rynku, w porównaniu z 33,5% w 2023 roku.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "W analizie uwzględniono wszystkie główne układy napędowe samochodów osobowych. Należą do nich silniki benzynowe i wysokoprężne, hybrydy typu plug-in (benzynowo-elektryczne i wysokoprężno-elektryczne), inne konfiguracje hybrydowe, pojazdy akumulatorowo-elektryczne oraz pojazdy napędzane wodorem lub ogniwami paliwowymi. Pojazd hybrydowy ładuje akumulator za pomocą silnika spalinowego i hamowania regeneracyjnego, natomiast hybryda typu plug-in może być dodatkowo ładowana z zewnętrznego źródła zasilania, co pozwala na dłuższą jazdę wyłącznie na energii elektrycznej.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
