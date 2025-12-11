@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko su hibridna vozila uspješna u EU?",
+  "subtitle": "U 2024. godini, 38% svih novoregistriranih osobnih automobila bili su hibridni. To ukazuje na porast tržišnog udjela u odnosu na 33,5% u 2023. godini.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Za ovu analizu uzeti su u obzir svi glavni pogonski sustavi osobnih automobila. To uključuje benzinske i dizelske motore, plug-in hibridne benzinsko-električne i dizelsko-električne sustave, druge hibridne konfiguracije, vozila na baterije i vozila na vodik ili gorivne ćelije. Hibridno vozilo puni bateriju putem motora i regenerativnog kočenja, dok se plug-in hibrid može dodatno puniti iz vanjskog izvora napajanja kako bi dulje vozio samo na električnu energiju.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2024.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
