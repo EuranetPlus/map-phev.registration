@@ -1,13 +1,11 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvor godt klarer hybridbiler sig i EU?",
+  "subtitle": "I 2024 var 38 % af alle nyregistrerede personbiler hybridbiler. Dette indikerer en stigning i markedsandelen fra 33,5 % i 2023.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "I denne analyse blev alle større fremdriftssystemer til personbiler taget i betragtning. Disse omfatter benzin- og dieselmotorer, plug-in hybrid benzin-elektriske og diesel-elektriske systemer, andre hybridkonfigurationer, batteri-elektriske køretøjer og brint- eller brændstofcellekøretøjer. Et hybridkøretøj oplader sit batteri via motoren og regenerativ bremsning, mens en plug-in hybrid derudover kan oplades fra en ekstern strømkilde for at køre længere på el alene.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
   "tooltipExtraInfoLabel": "Klik her"
 }
