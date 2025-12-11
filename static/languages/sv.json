@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur bra går det för hybridbilar i EU?",
+  "subtitle": "År 2024 var 38 % av alla nyregistrerade personbilar hybridbilar. Detta indikerar en ökning av marknadsandelen, från 33,5 % år 2023.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "För denna analys beaktades alla större framdrivningssystem för personbilar. Dessa inkluderar bensin- och dieselmotorer, laddhybrider med bensin- och dieselmotorer, andra hybridkonfigurationer, batteridrivna fordon och vätgas- eller bränslecellsfordon. Ett hybridfordon laddar sitt batteri via motorn och regenerativ bromsning, medan en laddhybrid dessutom kan laddas från en extern strömkälla för att köra längre enbart på el.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
