@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm sejrin tajjeb il-vetturi ibridi fl-UE?",
+  "subtitle": "Fl-2024, 38% tal-karozzi tal-passiġġieri kollha rreġistrati ġodda kienu ibridi. Dan jindika żieda fis-sehem tas-suq, minn 33.5% fl-2023.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Għal din l-analiżi, ġew ikkunsidrati s-sistemi ewlenin kollha ta' propulsjoni tal-karozzi tal-passiġġieri. Dawn jinkludu magni tal-petrol u tad-diżil, sistemi ibridi plug-in petrol-elettriku u diesel-elettriku, konfigurazzjonijiet ibridi oħra, vetturi elettriċi bil-batterija, u vetturi bl-idroġenu jew b'ċelloli tal-fjuwil. Vettura ibrida tiċċarġja l-batterija tagħha permezz tal-magna u l-ibbrejkjar riġenerattiv, filwaqt li ibrida plug-in tista' wkoll tiġi ċċarġjata minn sors ta' enerġija esterna biex issuq aktar bl-enerġija elettrika biss.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2024)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
