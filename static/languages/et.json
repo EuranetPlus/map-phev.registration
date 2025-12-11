@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui hästi läheb hübriidsõidukitel ELis?",
+  "subtitle": "2024. aastal oli 38% kõigist uutest registreeritud sõiduautodest hübriidautod. See näitab turuosa kasvu võrreldes 33,5%-ga 2023. aastal.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Selles analüüsis võeti arvesse kõiki peamisi sõiduautode jõusüsteeme. Nende hulka kuuluvad bensiini- ja diiselmootorid, pistikhübriidsed bensiini-elektri- ja diisel-elektrisüsteemid, muud hübriidkonfiguratsioonid, akutoitel töötavad elektriautod ning vesinik- või kütuseelementidega sõidukid. Hübriidauto laeb oma akut mootori ja regeneratiivpidurduse abil, samas kui pistikhübriidi saab laadida ka välisest toiteallikast, et sõita kauem ainult elektri jõul.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
