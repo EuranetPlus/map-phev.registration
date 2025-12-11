@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé chomh maith agus atá feithiclí hibrideacha ag déanamh san AE?",
+  "subtitle": "Sa bhliain 2024, ba hibrideacha 38% de na gluaisteáin phaisinéirí uile a cláraíodh as an nua. Léiríonn sé seo méadú ar an sciar den mhargadh, suas ó 33.5% sa bhliain 2023.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Don anailís seo, breithníodh na príomhchórais tiomána gluaisteán paisinéirí go léir. Áirítear leo seo innill pheitril agus díosail, córais hibrideacha breiseán-leictreacha agus díosail-leictreacha, cumraíochtaí hibrideacha eile, feithiclí ceallraí-leictreacha, agus feithiclí hidrigine nó breosla-chealla. Luchtaíonn feithicil hibrideach a ceallraí tríd an inneall agus coscánaithe athghiniúnacha, agus is féidir hibrideach breiseán a mhuirearú ó fhoinse cumhachta seachtrach freisin chun tiomáint ar chumhacht leictreach amháin ar feadh tréimhse níos faide.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
